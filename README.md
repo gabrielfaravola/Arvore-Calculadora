@@ -86,8 +86,3 @@ O cálculo é feito recursivamente pelos métodos `visitar()` das classes `NoOpe
  ┣ 📄 No.java                 → Classe abstrata base dos nós
  ┣ 📄 NoOperador.java         → Nó que contém um operador e faz cálculo
  ┗ 📄 NoOperando.java         → Nó que contém um número float
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> a1b7cd2bbf7faef342bd6d7d63f4fd33062b1fd6
