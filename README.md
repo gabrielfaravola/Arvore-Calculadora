@@ -5,7 +5,7 @@ Uma arvore binária que carrega expressões aritméticas e realiza o cálculo.
 
 Este projeto implementa uma **calculadora de expressões matemáticas** que utiliza **Árvores Binárias de Expressão** para representar, percorrer e resolver expressões aritméticas. O sistema é construído na linguagem de programação Java e funciona por meio de um menu interativo no terminal.
 
----
+##
 
 ## 🔍 Visão Geral
 
@@ -21,7 +21,7 @@ A partir da árvore construída, é possível:
 - Percorrer a árvore em diferentes ordens (pré, em, pós e por níveis)
 - Realizar o **cálculo da expressão aritmética** representada pela árvore
 
----
+##
 
 ## 📌 Objetivos
 
@@ -30,7 +30,7 @@ A partir da árvore construída, é possível:
 - ✅ Interpretar e calcular expressões numéricas com operadores básicos
 - ✅ Proporcionar um sistema modular e extensível em Java
 
----
+##
 
 ## 🧠 Estrutura da Solução
 
@@ -74,7 +74,7 @@ A árvore pode ser percorrida em:
 
 O cálculo é feito recursivamente pelos métodos `visitar()` das classes `NoOperador` e `NoOperando`, de acordo com a estrutura da árvore.
 
----
+##
 
 ## 🧩 Estrutura de Classes
 
